@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+body {
+  background-color: rgb(204, 204, 204);
+}
+
+/* Headings text alignment */
+h1, h2 {
+  text-align: center;
+}
+
+/* List items styling */
+li {
+  list-style-type: none;
+}
+
+/* Anchor tag link styling */
+a {
+  text-decoration-line: none;
+}
+
+/* Container classes for Video and Audio players */
+.player_one,
+.player_two {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 8px;
+}
